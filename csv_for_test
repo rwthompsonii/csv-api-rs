@@ -1,0 +1,5 @@
+id_str,a_int,opt_str,opt_float
+some_string,67890,my cool string,3.141592653589793
+another-string,8675309,,
+yet-another-string,-3478347,,2.718281828459045
+totally-amazing-string,3748343,yay,
