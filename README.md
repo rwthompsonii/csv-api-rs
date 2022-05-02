@@ -1,6 +1,6 @@
 this project is just a quick and dirty showing how to do serialization/deserialization
 
-it hosts at server listening at 12345.
+it hosts a server listening at 12345.
 
 don't use it for anything serious
 
